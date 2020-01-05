@@ -5,6 +5,6 @@ calls from your own scripts, and there will be the method of just calling the CL
 file, just to make and easy way to handle the CLI input.
 """
 
-from .console import main
+from .console import run
 
 main()
